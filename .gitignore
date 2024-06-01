@@ -1,0 +1,11 @@
+db.sqlite3
+live_chat_app/__pycache__/
+live_chat_app/management/commands/__pycache__/
+live_chat_app/migrations/__pycache__/
+live_chat_app/models/__pycache__/
+live_chat_app/serializers/__pycache__/
+live_chat_app/views/__pycache__/
+live_chat_app_project/__pycache__/
+media/blog_images
+media/product_images
+media/user_images
